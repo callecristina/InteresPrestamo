@@ -1,2 +1,2 @@
-# InteresPrestamo
-Calculadora de interés de préstamo en Python
+# Subsidio de Transporte
+Calculadora de Subsidio de transporte en Python
